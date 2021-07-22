@@ -1,0 +1,16 @@
+@font-face {
+    font-family: myFirstFont;
+    src: url(language1.ttf) format('truetype');
+ }
+  
+#sidfontcontainer{
+    font-family: myFirstFont;
+ }
+
+ .normalfont{
+     font-family: sans-serif,serif;
+ }
+ .container{
+     display: flex;
+ }
+ 
